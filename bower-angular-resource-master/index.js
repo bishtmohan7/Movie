@@ -3,3 +3,4 @@ module.exports = 'ngResource';
 
 
 hello ,how are you
+hi......Test
